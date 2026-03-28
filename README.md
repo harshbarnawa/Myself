@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Harsh
+# Hi there 👋, I'm Harsh Barnawa
 
-🚀 BTech Student | Full Stack Developer | DSA Enthusiast
+🚀 BTech Student | Full Stack Developer | Competitive Programmer
 
 ---
 
@@ -16,16 +16,16 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=harshbarnawa\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshbarnawa\&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
+* Email: harshbarnawa.info@gmail.com
 * Instagram: https://instagram.com/draxgodgaming
-* YouTube: https://youtube.com/@draxgod
 
 
 ---
